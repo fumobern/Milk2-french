@@ -24,9 +24,9 @@ _Si vous souhaitez par la suite jouer dans une autre langue, il vous faudra supp
 ---
 ## Remerciements
 
-[Nikita Kryukov](https://x.com/nkt_krkv) - créateur du jeu
+[Nikita Kryukov](https://x.com/nkt_krkv) **- créateur du jeu**
 
-[Aesthetic Dialectic](https://x.com/adtl48) - traduction anglaise
+[Aesthetic Dialectic](https://x.com/adtl48) **- traduction anglaise**
 
 ---
 ## Contact
@@ -34,3 +34,5 @@ _Si vous souhaitez par la suite jouer dans une autre langue, il vous faudra supp
 Twitter/X: https://x.com/fumoTL  
   
 Email: ptitcomptetrkl@gmail.com
+
+_**Si vous avez des suggestions ou autre, n'hésitez pas à me contacter.**_
