@@ -31,10 +31,11 @@ _Si vous souhaitez par la suite jouer dans une autre langue, il vous faudra supp
 ---
 ## Contact
 
-Twitter/X: https://x.com/fumoTL  
+**Twitter/X:** https://x.com/fumoTL  
   
-Email: ptitcomptetrkl@gmail.com
-
-PayPal: https://www.paypal.com/paypalme/fumoincognito
+**Email:** ptitcomptetrkl@gmail.com
 
 _**Si vous avez des suggestions ou autre, n'hésitez pas à me contacter.**_
+
+---
+**PayPal:** https://www.paypal.com/paypalme/fumoincognito
