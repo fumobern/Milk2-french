@@ -236,7 +236,7 @@ translate french kompol_6b774fe1:
 translate french kompol_2f11264e:
 
     # k "- А-а-а-а-а-а-а-а-а-а-а-а-а!!!"
-    k "- Aaaaaah!!!"
+    k "- A-a-a-a-a-ah!!!"
 
 # game/kompol.rpy:127
 translate french kompol_ca0bfb2c:

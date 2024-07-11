@@ -107,7 +107,7 @@ translate french strings:
 translate french backpack_c92e01ee:
 
     # gg "- Хм-м-м..."
-    gg "- Hmm..."
+    gg "- h-m-m..."
 
 # game/pnc_text.rpy:67
 translate french backpack_79c4eff2:
@@ -926,7 +926,7 @@ translate french strings:
 translate french laptop_7fd94592:
 
     # gg "- М-м..."
-    gg "- Hmm..."
+    gg "- h-m-m..."
 
 # game/pnc_text.rpy:507
 translate french laptop_5f0d51e5:
@@ -973,7 +973,7 @@ translate french laptop_87077ee0:
 translate french strings:
     # game/pnc_text.rpy:521
     old "(М-м?)"
-    new "(Hmm?)"
+    new "(h-m-m?)"
 
 # game/pnc_text.rpy:525
 translate french laptop_30b90bb2:
@@ -1981,7 +1981,7 @@ translate french plants_b2dcd22e:
 translate french strings:
     # game/pnc_text.rpy:1069
     old "(Эм-м... типа того.)"
-    new "(Hmm... J’imagine que oui?)"
+    new "(h-m-m... J’imagine que oui?)"
 
 # game/pnc_text.rpy:1073
 translate french plants_37284d6f:
@@ -2149,7 +2149,7 @@ translate french bulbs_6f05c6bd:
 translate french bulbs_cb7a643e:
 
     # gg "- Хм-м..."
-    gg "- Hmm..."
+    gg "- h-m-m..."
 
 # game/pnc_text.rpy:1196
 translate french vent_ac59bddc:

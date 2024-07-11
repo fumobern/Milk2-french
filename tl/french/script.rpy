@@ -546,7 +546,7 @@ translate french choice1_58f023cc:
 translate french strings:
     # game/script.rpy:418
     old "(Хм-м-м?)"
-    new "(Hmm?)"
+    new "(h-m-m?)"
     
 # game/script.rpy:416
 translate french choice1_7fb6362e:
@@ -2569,7 +2569,7 @@ translate french strings:
 translate french room_61f95837:
 
     # gg "- Я... м-м..."
-    gg "- Je, hmm..."
+    gg "- Je, h-m-m..."
 
 # game/script.rpy:1473
 translate french room_68dca3ff:

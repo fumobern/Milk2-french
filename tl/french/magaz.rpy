@@ -26,7 +26,7 @@ translate french magaz_5c56715c:
 translate french magaz_d9ca71a8:
 
     # ggm "- Эм-м-м... а ты кто?"
-    ggm "- Hmm... T’es qui?"
+    ggm "- h-m-m... T’es qui?"
 
 # game/magaz.rpy:79
 translate french magaz_c96f65e3:
@@ -308,7 +308,7 @@ translate french magaz_56bd5b0c:
 translate french magaz_7dc314bf:
 
     # trm "- А-а-а... а зовут как?"
-    trm "- Aaaah... Et ton nom?"
+    trm "- A-a-ah... Et ton nom?"
 
 # game/magaz.rpy:164
 translate french magaz_b5ef0b03:
@@ -350,7 +350,7 @@ translate french magaz_fab2588c:
 translate french magaz_d2bc0976:
 
     # trm "- Я... эм-м-м..."
-    trm "- Je... Hmm..."
+    trm "- Je... H-m-m..."
 
 # game/magaz.rpy:180
 translate french magaz_fa0c299d:
@@ -404,7 +404,7 @@ translate french magaz_fbc1a18a:
 translate french magaz_a3ef7e99:
 
     # ggm "- Я... эм-м..."
-    ggm "- Je... Hmm..."
+    ggm "- Je... h-m-m..."
 
 # game/magaz.rpy:204
 translate french magaz_2f529462:
