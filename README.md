@@ -35,4 +35,6 @@ Twitter/X: https://x.com/fumoTL
   
 Email: ptitcomptetrkl@gmail.com
 
+PayPal: https://www.paypal.com/paypalme/fumoincognito
+
 _**Si vous avez des suggestions ou autre, n'hésitez pas à me contacter.**_
