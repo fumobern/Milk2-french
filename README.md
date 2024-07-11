@@ -1,6 +1,9 @@
 ![Github](https://github.com/fumobern/Milk2-french/assets/174740931/4c18134b-b05b-4259-9ea1-b5b525d66c0c)
+ # _<p align="center"> Patch français non officiel - Milk outside a bag of milk outside a bag of milk </p>_ #
 
+__Traduction complète du jeu Milk outside a bag of milk outside a bag of milk en français, tirée de la traduction anglaise de [Aesthetic Dialectic](https://x.com/adtl48).__
 
+---
 ## Installation
 **1. [Télécharger le patch](https://github.com/fumobern/Milk2-french/releases/tag/v1.0)**
 
@@ -18,8 +21,16 @@ Une fois cela fait, le jeu démarrera automatiquement en français.
 
 _Si vous souhaitez par la suite jouer dans une autre langue, il vous faudra supprimer les fichiers ajoutés via le patch._
 
+---
 ## Remerciements
 
 [Nikita Kryukov](https://x.com/nkt_krkv) - créateur du jeu
 
-[Aesthetic Dialectic](https://x.com/adtl48) - traduction anglaise _(dont le patch tire essentiellement parti)_
+[Aesthetic Dialectic](https://x.com/adtl48) - traduction anglaise
+
+---
+## Contact
+
+Twitter/X: https://x.com/fumoTL  
+  
+Email: ptitcomptetrkl@gmail.com
