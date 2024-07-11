@@ -10,7 +10,7 @@
 
   - Via votre bibliothèque Steam: `Clic droit sur le jeu -> Gérer -> Parcourir les fichiers locaux`
 
-  - Via l'explorateur de fichier (Windows uniquement): accéder à `C:\Program Files (x86)\Steam\steamapps\common\Milk outside a bag of milk outside a bag of milk\game`
+  - Via l'explorateur de fichier (Windows uniquement): accéder à `C:\Program Files (x86)\Steam\steamapps\common\Milk outside a bag of milk outside a bag of milk\game` _(ne fonctionne pas si vous avez changé le chemin d'installation par défaut proposé par Steam)_
 
 **3. Y glisser tous les fichiers inclus dans le dossier du patch.**
 
