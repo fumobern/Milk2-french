@@ -17,3 +17,9 @@
 Une fois cela fait, le jeu démarrera automatiquement en français.
 
 _Si vous souhaitez par la suite jouer dans une autre langue, il vous faudra supprimer les fichiers ajoutés via le patch._
+
+## Remerciements
+
+[Nikita Kryukov](https://x.com/nkt_krkv) - créateur du jeu
+
+[Aesthetic Dialectic](https://x.com/adtl48) - traduction anglaise _(dont le patch tire essentiellement parti)_
