@@ -8,7 +8,7 @@
 
 - Si votre jeu a été installé via Steam, vous pouvez y accéder des deux manières suivantes: 
 
-  - Via votre bibliothèque Steam: `Clic droit sur le jeu -> Gérer -> Parcourir les fichiers locaux`
+  - Via votre bibliothèque Steam: `Clic droit sur le jeu -> Gérer -> Parcourir les fichiers locaux -> dossier "game"`
 
   - Via l'explorateur de fichier (Windows uniquement): accéder à `C:\Program Files (x86)\Steam\steamapps\common\Milk outside a bag of milk outside a bag of milk\game` _(chemin d'installation par défaut de Steam)_
 
