@@ -4,7 +4,23 @@
 __Traduction complète du jeu Milk outside a bag of milk outside a bag of milk en français, tirée de la traduction anglaise de [Aesthetic Dialectic](https://x.com/adtl48).__
 
 ---
-## Installation
+# Installation
+## Automatique *(Windows uniquement)*
+
+**1. Télécharger le programme d'installation (lien bientôt)**
+
+**2. Démarrer le programme et y inscrire le lien conduisant au dossier "game" du jeu**\
+*(Si votre jeu a été installé dans le chemin par défaut de Steam, passez directement à la suite)*
+
+**3. Cliquer sur Installer**
+
+Le dossier "game" contiendra dorénavant:
+
+ - Tous les fichiers nécessaires au patch
+ - Un programme de désinstallation
+
+## Manuel
+
 **1. [Télécharger le patch](https://github.com/fumobern/Milk2-french/releases/tag/v1.0)**
 
 **2. Ouvrir le dossier "game" dans les fichiers du jeu.**
@@ -13,29 +29,30 @@ __Traduction complète du jeu Milk outside a bag of milk outside a bag of milk e
 
   - Via votre bibliothèque Steam: `Clic droit sur le jeu -> Gérer -> Parcourir les fichiers locaux -> dossier "game"`
 
-  - Via l'explorateur de fichier (Windows uniquement): accéder à `C:\Program Files (x86)\Steam\steamapps\common\Milk outside a bag of milk outside a bag of milk\game` _(chemin d'installation par défaut de Steam)_
+  - Via l'explorateur de fichiers (Windows uniquement): accéder à `C:\Program Files (x86)\Steam\steamapps\common\Milk outside a bag of milk outside a bag of milk\game` _(chemin d'installation par défaut de Steam)_
 
 **3. Y glisser tous les fichiers inclus dans le dossier du patch.**
 
-Une fois cela fait, le jeu démarrera automatiquement en français.
+---
+# Désinstallation
 
-_Si vous souhaitez par la suite jouer dans une autre langue, il vous faudra supprimer les fichiers ajoutés via le patch._
+Pour désinstaller le patch, il suffit d'exécuter le programme de désinstallation (supprimer_patch.exe) dans le dossier "game" du jeu.
 
 ---
-## Remerciements
+# Remerciements
 
 [Nikita Kryukov](https://x.com/nkt_krkv) **- créateur du jeu**
 
 [Aesthetic Dialectic](https://x.com/adtl48) **- traduction anglaise**
 
 ---
-## Contact
+# Contact
 
 **Twitter/X:** https://x.com/fumoTL  
   
 **Email:** ptitcomptetrkl@gmail.com
 
-_**Si vous avez des suggestions ou autre, n'hésitez pas à me contacter.**_
+_**Si vous avez des suggestions, questions ou autre, n'hésitez pas à me contacter.**_
 
 ---
 **PayPal:** https://www.paypal.com/paypalme/fumoincognito
