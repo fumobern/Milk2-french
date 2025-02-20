@@ -7,7 +7,7 @@ __Traduction complète du jeu Milk outside a bag of milk outside a bag of milk e
 # Installation
 ## Automatique *(Windows uniquement)*
 
-**1. Télécharger le programme d'installation (lien bientôt)**
+**1. [Télécharger le programme d'installation](https://github.com/fumobern/Milk2-french/releases/tag/v1.0.1)**
 
 **2. Démarrer le programme et y inscrire le lien conduisant au dossier "game" du jeu**\
 *(Si votre jeu a été installé dans le chemin par défaut de Steam, passez directement à la suite)*
@@ -21,7 +21,7 @@ Le dossier "game" contiendra dorénavant:
 
 ## Manuel
 
-**1. [Télécharger le patch](https://github.com/fumobern/Milk2-french/releases/tag/v1.0)**
+**1. [Télécharger le patch](https://github.com/fumobern/Milk2-french/releases/tag/v1.0.1)**
 
 **2. Ouvrir le dossier "game" dans les fichiers du jeu.**
 
